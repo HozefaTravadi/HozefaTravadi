@@ -38,12 +38,12 @@ Whether you're a **developer, tech enthusiast, or simply exploring**, I invite y
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)  
 [![Render](https://img.shields.io/badge/Render-4353FF?style=for-the-badge&logo=render&logoColor=white)](https://render.com/) 
 [![Railway](https://img.shields.io/badge/Railway-005571?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)  
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-4479A1?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)  
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23404d59.svg?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)  
 [![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)    
 
 ### 🔧 Developer Tools:
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23404d59.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
 
@@ -72,7 +72,7 @@ The first ever computer bug was **literally** a real bug! In 1947, **Grace Hoppe
 ---
 
 ## 🔗 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/HozefaTravadi)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23404d59.svg?style=flat&logo=github&logoColor=white)](https://github.com/HozefaTravadi)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hozefa-travadi-o7/)  
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hozefatravadi7@gmail.com)  
 
